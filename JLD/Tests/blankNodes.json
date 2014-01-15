@@ -1,0 +1,13 @@
+﻿{
+  "@context": {
+    "name":"http://tempuri.org#name",
+    "knows": "http://tempuri.org#knows"
+  },
+   "@id": "_:n1",
+   "name": "Secret Agent 1",
+   "knows":
+     {
+       "name": "Secret Agent 2",
+       "knows": { "@id": "_:n1" }
+     }
+}

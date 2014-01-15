@@ -1,0 +1,7 @@
+﻿{
+  "@context": {
+    "guitarist": "http://tempuri.org#guitarist"
+  },
+  "@id": "http://tempuri.org#ledzip",
+  "guitarist": "Jimmy Page"
+}
